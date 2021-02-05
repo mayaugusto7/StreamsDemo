@@ -1,0 +1,2 @@
+map -> one-to-one mapping
+flatMap -> one-to-many mapping Ele mapeia cada elemento para um fluxo e, em seguida, aplana o fluxo de fluxos para um fluxo.
